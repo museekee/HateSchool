@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Story : MonoBehaviour
+public class Story1 : MonoBehaviour
 {
     [SerializeField] private AudioClip Alarm;
     [SerializeField] private GameObject SceneGosu;
